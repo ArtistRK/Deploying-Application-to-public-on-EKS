@@ -1,5 +1,8 @@
 # Deploying-Application-to-public-on-EKS
-Deploying Application to public on EKS with all the security aspect and best practices
+Deploying Application to public on AWS EKS with all the security aspect and best practices
+
+## Note : Skip to Section 2.1 if you know AWS EKS and all the fundamentals of EKS and Kubernetes
+
 # AWS EKS 
 
 ## Introduction
